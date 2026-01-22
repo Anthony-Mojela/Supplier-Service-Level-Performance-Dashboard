@@ -53,8 +53,8 @@ This project demonstrates analytical structure, logic, and design — not real c
 ---
 
 ## 📷 Dashboard Preview  
-(Add screenshots of your dashboard here)
+<img width="1338" height="544" alt="image" src="https://github.com/user-attachments/assets/9804a9e1-cd47-4d97-91a9-38cdd53810b5" />
 
----
+
 
 
